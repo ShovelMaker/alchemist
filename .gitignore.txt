@@ -1,0 +1,14 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+
+# macOS
+.DS_Store
+
+# IDE
+*.sln
+*.csproj
+*.user

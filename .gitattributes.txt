@@ -1,0 +1,8 @@
+# 텍스트 파일 LF+UTF-8 통일
+* text=auto eol=lf working-tree-encoding=UTF-8
+
+# Unity 텍스트 에셋
+*.unity text
+*.prefab text
+*.asset text
+*.asmdef text
