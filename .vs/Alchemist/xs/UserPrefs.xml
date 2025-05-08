@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{EA9E0512-3064-70EE-CD50-B4003E2D7A5F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Managers/SaveLoadManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/SaveLoadManager.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alchemist" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Managers" expanded="True">
+                  <Node name="SaveLoadManager.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a52479f7-7eee-4371-bb48-78ba6e9e977b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
